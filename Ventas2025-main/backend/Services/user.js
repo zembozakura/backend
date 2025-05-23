@@ -1,0 +1,1 @@
+import{getDependency} from ".../"
